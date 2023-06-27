@@ -11,5 +11,10 @@ eng | ind
 
 ## Steps | Tahapan
 1. Upload the adruino code to your esp8266 | Unggah kode arduino ke esp8266 mu
-2. run server.py | jalankan server.py
-3. Have fun! | Bersenang-senanglah!
+2. (if you havent) install flask and pygame | (kalau belum) install flask dan pygame
+- di terminal tulis: | write in the terminal:
+    - pip install flask
+    - pip install pygame
+3. run server.py | jalankan server.py
+4. Have fun! | Bersenang-senanglah!
+   
