@@ -10,11 +10,12 @@ eng | ind
 - Ultrasonic Sensor HC-SR 04 
 
 ## Steps | Tahapan
-1. Upload the adruino code to your esp8266 | Unggah kode arduino ke esp8266 mu
-2. (if you havent) install flask and pygame | (kalau belum) install flask dan pygame
+1. Install esp8266 to adruino IDE ( https://www.instructables.com/How-to-Install-ESP8266-Into-Arduino-IDE/ )
+2. Upload the adruino code to your esp8266 | Unggah kode arduino ke esp8266 mu
+3. (if you havent) install flask and pygame | (kalau belum) install flask dan pygame
 - di terminal tulis: | write in the terminal:
     - pip install flask
     - pip install pygame
-3. run server.py | jalankan server.py
-4. Have fun! | Bersenang-senanglah!
+4. run server.py | jalankan server.py
+5. Have fun! | Bersenang-senanglah!
    
