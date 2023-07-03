@@ -11,7 +11,7 @@ def play_sound():
     pygame.mixer.music.load(sound_file)
     pygame.mixer.music.play()
 
-    return "Sound played"
+    return "yey"
 
 if __name__ == "__main__":
     play_sound()
