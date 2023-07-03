@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/play_sound")
 def play_sound():
-    sound_file = r"C:\Users\khali\Music\untitled.mp3" # change it to your sound directory
+    sound_file = r"C:\Users\khali\Music\untitled.mp3" # change it to your sound directory | ubah ke direktori suara kalian di laptop
 
     pygame.mixer.init()
     pygame.mixer.music.load(sound_file)
